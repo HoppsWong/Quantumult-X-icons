@@ -1,7 +1,8 @@
 {"name":"WS-icons", 
 "description":"机场图标，无偿更新，如需添加新图标请联系老王:https://t.me/Wongschat_bot", 
 "icons":[
-    {"name":"Nexitally", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/nexitally.png"},
-    {"name":"EFCloud", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/efcloud.png"},
+    {"name":"nexitally", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/nexitally.png"},
+    {"name":"godetia", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/godetia.png"},
+    {"name":"efcloud", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/efcloud.png"},
         ]
 }
