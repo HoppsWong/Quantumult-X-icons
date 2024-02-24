@@ -29,6 +29,7 @@
     {"name":"v2tun", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/v2tun.png"},
     {"name":"westdata", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/westdata.png"},
     {"name":"westdata2", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/westdata2.png"},
+    {"name":"catnet", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/catnet.png"},
     {"name":"efcloud", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/efcloud.png"},
     {"name":"emovpn", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/emovpn.png"},
     {"name":"emovpn2", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/emovpn2.png"},
@@ -36,9 +37,11 @@
     {"name":"hela", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/hela.png"},
     {"name":"linkcube", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/linkcube.png"},
     {"name":"linkcube2", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/linkcube2.png"},
+    {"name":"mdss", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/mdss.png"},
     {"name":"naiu", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/naiu.png"},
     {"name":"shouhou", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/shouhou.png"},
     {"name":"shouhou2", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/shouhou2.png"},
     {"name":"sslinks", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/sslinks.png"},
+    {"name":"syn", "url":"https://raw.githubusercontent.com/HoppsWong/Quantumult-X-icons/main/Quantumult-X-icons/syn.png"},
         ]
 }
